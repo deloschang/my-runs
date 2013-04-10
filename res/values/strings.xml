@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRuns2</string>
+
+    <!-- Change this to whatever the course website will be -->
+    <string name="homepage_url">http://www.cs.dartmouth.edu/~campbell</string>
+    <string name="profile_photo_file_name">profile_photo.png</string>
+    <string name="dialog_fragment_tag_photo_picker">dialog_fragment_photo_picker</string>
+    <string name="preference_key_profile_name">profile_name</string>
+    <string name="preference_key_profile_email">profile_email</string>
+    <string name="preference_key_profile_phone">profile_phone</string>
+    <string name="preference_key_profile_gender">profile_gender</string>
+    <string name="preference_key_profile_class">profile_class</string>
+    <string name="preference_key_profile_major">profile_major</string>
+    <string name="preference_name">myruns_shred_preference</string>
+    <string name="ui_profile_toast_save_text">Profile saved</string>
+    <string name="ui_profile_toast_cancel_text">Change canceled</string>
+    <string name="ui_profile_name_hint">Your name here</string>
+    <string name="ui_profile_name_title">Name</string>
+    <string name="ui_profile_email_hint">Your Email here</string>
+    <string name="ui_profile_email_title">Email:</string>
+    <string name="ui_profile_phone_hint">Your phone number here</string>
+    <string name="ui_profile_phone_title">Phone:</string>
+    <string name="ui_profile_gender_title">Gender:</string>
+    <string name="ui_profile_gender_male">Male</string>
+    <string name="ui_profile_gender_female">Female</string>
+    <string name="ui_profile_major_title">Major:</string>
+    <string name="ui_profile_major_hint">Your major here</string>
+    <string name="ui_profile_class_title">Class:</string>
+    <string name="ui_profile_class_hint">e.g. 2012</string>
+    <string name="ui_button_save_title">Save</string>
+    <string name="ui_button_cancel_title">Cancel</string>
+    <string name="ui_button_change_title">Change</string>
+    <string name="ui_settings_category_account_title">Account Preferences</string>
+    <string name="ui_settings_category_additional_title">Additional settings</string>
+    <string name="ui_settings_category_misc_title">Misc.</string>
+    <string name="ui_settings_profile_key">ui_settings_profile</string>
+    <string name="ui_settings_profile_title">User Profile</string>
+    <string name="ui_settings_profile_summary">Names, Email, Class, etc</string>
+    <string name="ui_settings_privacy_key">ui_settings_privacy</string>
+    <string name="ui_settings_privacy_summary">Posting your records anonymously</string>
+    <string name="ui_settings_privacy_title">Privacy setting</string>
+    <string name="ui_settings_unit_display_key">ui_settings_unit_display</string>
+    <string name="ui_settings_unit_display_summary">Select the units in which you would like to see distance values</string>
+    <string name="ui_settings_unit_display_title">Unit Preference</string>
+    <string name="ui_settings_comment_title">Comment</string>
+    <string name="ui_settings_comment_summary">Any suggestion to this course?</string>
+    <string name="ui_settings_comment_name">Leave your comment</string>
+    <string name="ui_settings_homepage_title">Class homepage</string>
+    <string name="ui_profile_photo_title">Profile photo:</string>
+    <string name="ui_profile_photo_content_description">Your profile photo:</string>
+    <string name="ui_history_todo">This is the history tab. TODO in the next lab</string>
+    <string name="ui_start_todo">This is the start tab. TODO in the next lab</string>
+    <string name="ui_main_tab_start_title">Start</string>
+    <string name="ui_main_tab_history_title">History</string>
+    <string name="ui_main_tab_settings_title">Settings</string>
+    <string name="ui_profile_photo_picker_title">"Select profile image"</string>
+
+    <string-array name="unit_display_name">
+        <item>Metric (meters)</item>
+        <item>Imperial (feet)</item>
+    </string-array>
+    <string-array name="unit_display_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="ui_profile_photo_picker_items">
+        <item>Take from camera</item>
+        <item>Select from gallery</item>
+        <item>Take from camera</item>
+        <item>Select from gallery</item>
+    </string-array>
+
+</resources>
